@@ -6,6 +6,6 @@ This is a role-playing game called "Dragon Repeller" built with HTML5, CSS3, and
 
 Here's a preview of the game:
 
-![Preview](https://github.com/parazeeknova/Javascript-Resources/blob/main/FCC/RPG%20FCC%20C1%20M3/preview.png?raw=true)
+![Preview](https://github.com/parazeeknova/Javascript-Resources/blob/main/FCC/RPG%20FCC%20C1%20M3/Preview.png?raw=true)
 
 Working link soon! : $Link$
